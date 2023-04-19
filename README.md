@@ -11,7 +11,6 @@
 * [Planning](#planning)
 * [Updates](#updates)
 
-
 ### Structure of the Site
 The Hyphal Health website is designed to provide visitors with valuable information about medicinal mushrooms, while also encouraging them to make purchases or inquiries. To achieve this dual purpose, we've designed a multipage website that allows for easy navigation and information consumption.
 
@@ -60,7 +59,7 @@ Overall, the structure of the Hyphal Health website is intended to provide a sea
 - [x] acquire hyphalhealh.com domain
 - [x] configure DNS
 - [x] SSL certificate
-- [ ] bootstrap with template
+- [x] bootstrap with template
 - [ ] customize as needed
 - [ ] home page
 - [ ] product page [template]
